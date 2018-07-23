@@ -1,0 +1,39 @@
+/* Timer */
+export const SET_SEARCHED_RECIPES = 'SET_SEARCHED_RECIPES';
+export const ADD_RECIPE = 'ADD_RECIPE';
+export const START_TIMER = 'START_TIMER';
+export const START_ANIMATIONS = 'START_ANIMATIONS';
+export const STOP_TIMER = 'STOP_TIMER';
+export const DECREMENT_TIME = 'DECREMENT_TIME';
+export const SET_TIME = 'SET_TIME';
+export const SET_MODE = 'SET_MODE';
+export const SET_START_TIME = 'SET_START_TIME';
+
+/* Settings */
+export const TOGGLE_SOUND = 'TOGGLE_SOUND';
+export const TOGGLE_SOUND_WORKING = 'TOGGLE_SOUND_WORKING';
+export const TOGGLE_SOUND_BREAK = 'TOGGLE_SOUND_BREAK';
+export const TOGGLE_SOUND_WORK_END = 'TOGGLE_SOUND_WORK_END';
+export const TOGGLE_SOUND_BREAK_END = 'TOGGLE_SOUND_BREAK_END';
+export const TOGGLE_TRANSITIONS = 'TOGGLE_TRANSITIONS';
+export const TOGGLE_ANIMATIONS = 'TOGGLE_ANIMATIONS';
+export const TOGGLE_SLEEP = 'TOGGLE_SLEEP';
+export const TOGGLE_MEDIA_CONTROLS = 'TOGGLE_MEDIA_CONTROLS';
+export const RESET_STATE = 'RESET_STATE';
+export const SET_WORK_LENGTH = 'SET_WORK_LENGTH';
+export const SET_BREAK_LENGTH = 'SET_BREAK_LENGTH';
+export const SET_LONG_BREAK_LENGTH = 'SET_LONG_BREAK_LENGTH';
+
+/* Logs */
+export const SET_DAY_START = 'SET_DAY_START';
+export const ADD_TO_LOGS = 'ADD_TO_LOGS';
+export const SET_LOGS = 'SET_LOGS';
+export const INCREMENT_TODAY = 'INCREMENT_TODAY';
+export const TOGGLE_EMPTY_DAYS = 'TOGGLE_EMPTY_DAYS';
+export const TOGGLE_WEEKENDS = 'TOGGLE_WEEKENDS';
+
+/* Restore state */
+export const RESTORE_STATE = 'RESTORE_STATE';
+
+/* Path */
+export const SET_PATH = 'SET_PATH';

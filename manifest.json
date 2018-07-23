@@ -1,0 +1,21 @@
+{
+  "name": "tomato timer",
+  "short_name": "tomato timer",
+  "description": "PWA focus timer you can control from your lock screen.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#238F6B",
+  "background_color": "#3f2c2b",
+  "icons": [
+    {
+      "src": "images/manifest/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/manifest/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "/": {
+    "src/components/my-app.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "src/components/timer-view.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js": {
+      "type": "script",
+      "weight": 1
+    }
+  },
+  "/settings": {
+    "src/components/my-app.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "src/components/settings-view.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js": {
+      "type": "script",
+      "weight": 1
+    }
+  },
+  "/about": {
+    "src/components/my-app.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "src/components/about-view.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js": {
+      "type": "script",
+      "weight": 1
+    }
+  },
+  "/stats": {
+    "src/components/my-app.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "src/components/stats-view.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js": {
+      "type": "script",
+      "weight": 1
+    }
+  }
+}
